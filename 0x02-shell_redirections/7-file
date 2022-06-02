@@ -1,2 +1,2 @@
 #!/bin/bash
-export BEST="school"
+task 7 ls -la > ls_cwd_content
