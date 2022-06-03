@@ -1,0 +1,2 @@
+#!/bin/basg
+tr 'A-Za-z' 'N-A-Mn-za-m'
