@@ -49,3 +49,4 @@ file { 'Nginx default config file':
                root /var/www/html;
         # Add index.php to the list if you are using PHP
         index index.html index.htm index.nginx-debian.html;
+
